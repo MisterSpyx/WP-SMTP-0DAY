@@ -1,4 +1,4 @@
-<h1>Smtp Cracker From Sites </h1>
+<h1>Wordpress SMTP 0day </h1>
 <p><a href="https://github.com/MisterSpyx/Smtp-Cracker-From-Sites/"></a>
 <a href="https://github.com/MisterSpyx/Smtp-Cracker-From-Sites/r"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/MisterSpyx/Smtp-Cracker-From-Sites/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
