@@ -6,7 +6,7 @@
 
 <h2>Smtp Cracker From Sites</h2>
 
-<img src="https://i.ibb.co/jwwJhY2/1.png" data-canonical-src="https://i.ibb.co/jwwJhY2/1.png" style="max-width:100%;">
+<img src="https://i.ibb.co/Nj4Hr4v/1.pngpng" data-canonical-src="https://i.ibb.co/Nj4Hr4v/1.png" style="max-width:100%;">
 
 <h2>Mass WP SMTP 0day Checker  </h2>
 <h2>Usage</h2>
@@ -15,6 +15,10 @@
 <h1>0day.py</h1>
 <h2>for linux : python2 0day.py</h2>
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+```bash
+I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS SCRIPT. IT IS FOR EDUCATIONAL PURPOSES ONLY. NEVER HACK PEOPLE WITHOUT THEIR CONSENT. DO NOT USE THIS SCRIPT FOR Hacking
+```
 
 ```bash
 git clone https://github.com/MisterSpyx/WP-SMTP-0DAY.git
