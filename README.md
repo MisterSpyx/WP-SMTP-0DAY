@@ -4,17 +4,9 @@
 <a href="https://github.com/MisterSpyx/Smtp-Cracker-From-Sites/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p> 🐱‍💻 new wp exploit 🐱‍💻  </p>
 
-<h2>Smtp Cracker From Sites</h2>
 
 <img src="https://i.ibb.co/Nj4Hr4v/1.pngpng" data-canonical-src="https://i.ibb.co/Nj4Hr4v/1.png" style="max-width:100%;">
 
-<h2>Mass WP SMTP 0day Checker  </h2>
-<h2>Usage</h2>
-<h3>sites Format : http://www.site.com or https://www.sites.com</h3>
-<h1>put ur sites in the same path of 0day.py</h1>
-<h1>0day.py</h1>
-<h2>for linux : python2 0day.py</h2>
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
 I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS SCRIPT. IT IS FOR EDUCATIONAL PURPOSES ONLY. NEVER HACK PEOPLE WITHOUT THEIR CONSENT. DO NOT USE THIS SCRIPT FOR Hacking
